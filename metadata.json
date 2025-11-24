@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FitLife AI - 个性化减脂助手",
+  "description": "基于Google Gemini API的智能减脂饮食规划师，提供个性化一日三餐建议、详细食谱及实时营养咨询。",
+  "requestFramePermissions": []
+}
